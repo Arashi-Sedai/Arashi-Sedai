@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/d02ad5f5-555a-48c0-8b6a-99dafdff4a61" height="40" alt="sql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://github.com/user-attachments/assets/86fdba22-6b4d-4736-acf1-a8e6b71c7b09" height="40" alt="airflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/0684c030-c874-46f1-85f5-bb7f67f38d87" height="40" alt="jest logo"  />
+  <img src="https://github.com/user-attachments/assets/0684c030-c874-46f1-85f5-bb7f67f38d87" height="40" alt="gcp logo"  />
 </div>
 
 ###
