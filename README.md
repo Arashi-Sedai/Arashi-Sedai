@@ -29,9 +29,9 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/f6dfdc8b-f69f-4050-bddd-5f3d39312fde" height="40" alt="dbt logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://github.com/user-attachments/assets/bf4bffe5-feed-41a9-b556-d73819eab0fa" height="40" alt="aws logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://github.com/user-attachments/assets/7e0c5030-9c38-46c0-a5e0-574277d13a5b" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/0684c030-c874-46f1-85f5-bb7f67f38d87" height="40" alt="gcp logo"  />
 </div>
