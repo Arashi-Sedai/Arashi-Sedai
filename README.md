@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou a Mariana! 🇧🇷</h1>
+<img src="https://img.shields.io/badge/PT--BR-009B3A?style=for-the-badge&logo=brazil&logoColor=yellow" height="28" /><h1 align="left">Olá, eu sou a Mariana! </h1>
 
 <p align="left">Sou formada em Biblioteconomia e Gestão de Unidades de Informação pela UFRJ e sempre tive muito interesse por tecnologia, o que me fez migrar para a área de dados. Atualmente venho aprimorando meus conhecimentos em pipelines de dados, ETL e GCP, me aprofundando mais acerca da função de Engenharia e Arquitetura de Dados e explorando novas aplicações utilizando agentes de IA.</p>
 
@@ -35,7 +35,8 @@
 <hr />
 <br />
 
-<h1 align="left">Hello, Mariana here! 🇺🇸 / 🇬🇧</h1>
+
+<img src="https://img.shields.io/badge/EN--US-0A3161?style=for-the-badge&logo=unitedstates&logoColor=white" height="28" /><h1 align="left">Hello, Mariana here!</h1>
 
 <p align="left">I hold a degree in Library Science and Information Unit Management from UFRJ. Driven by my passion for technology, I transitioned into the data field. Currently, I am expanding my expertise in data pipelines, ETL, and GCP, deepening my knowledge in Data Engineering and Architecture, and exploring new applications with AI agents.</p>
 
