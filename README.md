@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Sou formada em Biblioteconomia e Gestão de Unidades de Informação pela UFRJ e sempre tive muito interesse por tecnologia, o que me fez migrar para a área de dados. Atualmente venho aprimorando meus conhecimentos em pipelines de dados, ETL e GCP, me aprofundando mais acerca da função de Engenharia e Arquitetura de Dados e explorando novas aplicações nas áreas de Ciência da Informação e análise de dados.</p>
+<p align="left"> Sou formada em Biblioteconomia e Gestão de Unidades de Informação pela UFRJ e sempre tive muito interesse por tecnologia, o que me fez migrar para a área de dados. Atualmente venho aprimorando meus conhecimentos em pipelines de dados, ETL e GCP, me aprofundando mais acerca da função de Engenharia e Arquitetura de Dados e explorando novas aplicações utilizando agentes de IA.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Graduada em Biblioteconomia e Gestão de Unidades de Informação | Nanodegree em Fundamentos de Data Science<br>📚 Estudando <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🎓 Graduada em Biblioteconomia e Gestão de Unidades de Informação | Nanodegree em Fundamentos de Data Science<br>📚 Estudando: Databricks e APIs <br>🎯 Goals: Chegar a Tech Leader :)<br>🎲 Fun fact: Amo videogames, livros e mangás.</p>
 
 ###
 
