@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/d02ad5f5-555a-48c0-8b6a-99dafdff4a61" height="40" alt="sql logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/86fdba22-6b4d-4736-acf1-a8e6b71c7b09" height="40" alt="airflow logo"  />
+  <img src="https://github.com/user-attachments/assets/caf9b947-4d72-4bda-bd0b-7bf793201a15" height="40" alt="airflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
