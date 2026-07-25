@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/6cfc3b42-70fe-4b30-bb81-cbec58f25bad" height="40" alt="spark logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://github.com/user-attachments/assets/f6dfdc8b-f69f-4050-bddd-5f3d39312fde" height="40" alt="dbt logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
