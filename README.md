@@ -14,12 +14,12 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Ferramentas que uso</h2>
 
 ###
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/abb31058-2127-479e-b972-d5fab54b9a56" height="40" alt="python logo"  />
+  <img src="[https://github.com/user-attachments/assets/abb31058-2127-479e-b972-d5fab54b9a56](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2O5xZS0WlxU4UdLKo3Hsduh0t4DmQQAeoO_RDI8XXTw&s=10)" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
