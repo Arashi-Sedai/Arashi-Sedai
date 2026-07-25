@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://github.com/user-attachments/assets/3b5a2739-5da5-4bae-9aa3-e019987c0ff6" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://github.com/user-attachments/assets/a73c505d-5c98-4a34-857c-9ac5e4b2a006" height="40" alt="sql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
