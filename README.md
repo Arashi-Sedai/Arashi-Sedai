@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/d8dc7319-784c-4e26-bcc8-c0e7bd4fe85b" height="40" alt="python logo"  />
+  <img src="https://github.com/user-attachments/assets/3b5a2739-5da5-4bae-9aa3-e019987c0ff6" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
