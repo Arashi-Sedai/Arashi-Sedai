@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/caf9b947-4d72-4bda-bd0b-7bf793201a15" height="40" alt="airflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://github.com/user-attachments/assets/6cfc3b42-70fe-4b30-bb81-cbec58f25bad" height="40" alt="spark logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
